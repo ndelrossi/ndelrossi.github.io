@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ruby on Rails Beginner Resources"
-date: 2015-01-08 08:12:19 -0500
+date: 2015-01-08
 comments: true
 categories: [Ruby, Ruby on Rails]
 ---
