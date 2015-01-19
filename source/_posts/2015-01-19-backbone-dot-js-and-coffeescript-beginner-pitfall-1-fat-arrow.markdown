@@ -60,7 +60,7 @@ It works but coffeescript has an easier way to solve this. You can just use a fa
 
 {% codeblock lang:coffeescript %}
 @$el.hover =>
-  self.changeSomeText()
+  this.changeSomeText()
 {% endcodeblock %}
 
-Now it works again. After seeing that error many times I now have it engrained in my head to use the fat arrow when using `this` inside callback functions.
+Now it works again. The value of `this` now refers to the View again. After seeing that error many times I now have it engrained in my head to use the fat arrow when using `this` inside callback functions.
