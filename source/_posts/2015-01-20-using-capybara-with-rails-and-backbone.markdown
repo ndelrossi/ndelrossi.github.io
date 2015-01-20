@@ -5,7 +5,7 @@ date: 2015-01-20 13:45:22 -0500
 comments: true
 categories: [Ruby On Rails, Backbone, Capybara]
 ---
-This is a quick Rails 4 guide for setting up Capybara to work the backbone-on-rails gem. If you are loading all of your html in backbone views and not from Rails then Capybara will not see it with a test like this:
+This is a quick Rails 4 guide for setting up Capybara to work with the backbone-on-rails gem. If you are loading all of your html in backbone views and not from Rails then Capybara will not see it with a test like this:
 
 {% codeblock lang:ruby %}
 feature "Visitor visits home page" do
