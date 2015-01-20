@@ -22,7 +22,7 @@ This will result in:
 <span style="color:red">Failure/Error: expect(page).to have content("Foo")<br> 
 &nbsp;&nbsp;expected to find text "Foo" in ""</span>
 
-We can get this to work by doing a few simple things:
+Capybara thinks there is nothing on the page because it has not loaded the backbone code. We can get this to work by doing a few simple things:
 
 <!--more-->
 
