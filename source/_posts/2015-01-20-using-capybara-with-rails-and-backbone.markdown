@@ -26,7 +26,9 @@ Capybara thinks there is nothing on the page because it has not loaded the backb
 
 <!--more-->
 
-First add the capybara-webkit gem to your Gemfile and `bundle install`. You can also use selenium-webdriver but I won't get into that here.
+First add the capybara-webkit gem to your Gemfile and `bundle install`.
+
+Note: You can also use selenium-webdriver which is the default but I personally prefer capybara-webkit for [a few reasons](http://mrlab.sk/selenium-vs-poltergeist-vs-cabybara-webkit.html) so I'll use that here.
 
 {% codeblock lang:ruby %}
 gem 'capybara-webkit'
