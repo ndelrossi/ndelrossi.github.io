@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Backbone.js and Coffeescript Beginner Pitfall 1: Fat Arrow"
-date: 2015-01-19 14:29:30 -0500
+date: 2015-01-15 14:29:30 -0500
 comments: true
 categories: backbone coffeescript
 ---
