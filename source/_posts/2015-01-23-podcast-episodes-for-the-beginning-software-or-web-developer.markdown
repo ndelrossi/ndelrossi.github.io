@@ -8,7 +8,7 @@ categories: [Web Development, Podcasts, Software Development]
 ---
 I am obsessed with podcasts. In the spring of 2014 I began to devote a lot of time to learning web development and one of the first things I did was search for podcasts on the subject. I'm compiling a short list here of my favorite episodes that really helped me get going in web development.
 
-Most of these are soft topics. They cover the process of learning, what skills to learn, how to overcome beginning barriers, and more. Often the problem with learning something new is not the subject itself but how to approach it and how to overcome the initial barriers to entry. If you are trying to enter the field from a non-standard path I especially recommend these.
+Most of these are soft topics. They cover the process of learning, what skills to learn, how to overcome beginning barriers, and more. If you are trying to enter the field from a non-standard path I especially recommend these.
 
 While I've tried many podcasts, there are definitely great episodes from shows I've never tried or never heard about. If you know of one that helped you I'd love to hear about it.
 
