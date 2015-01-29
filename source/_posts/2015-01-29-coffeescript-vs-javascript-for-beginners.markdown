@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CoffeeScript vs JavaScript for Beginners"
-date: 2015-01-26 15:52:42 -0500
+date: 2015-01-29 15:52:42 -0500
 comments: true
 categories: [CoffeeScript, JavaScript] 
 ---
