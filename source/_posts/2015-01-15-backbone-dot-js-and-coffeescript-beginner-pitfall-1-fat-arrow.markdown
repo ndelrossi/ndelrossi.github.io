@@ -3,7 +3,7 @@ layout: post
 title: "Backbone.js and Coffeescript Beginner Pitfall 1: Fat Arrow"
 date: 2015-01-15 14:29:30 -0500
 comments: true
-categories: backbone coffeescript
+categories: [Backbone, CoffeeScript]
 ---
 While learning backbone.js and coffeescript I have run into many beginner issues that have tripped me up. This is the first of several I plan to write about and hopefully save myself and others some trouble.
 
