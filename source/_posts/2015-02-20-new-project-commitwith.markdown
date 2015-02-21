@@ -5,7 +5,7 @@ date: 2015-02-20 18:58:58 -0500
 comments: true
 categories: 
 ---
-I have been working hard over the last month or so on a new project called Commitwith. An early, very much in-progress version is up at [www.commitwith.com](www.commitwith.com). It is intended to be a web app where users can view and list open-source projects.
+I have been working hard over the last month or so on a new project called Commitwith. An early, very much in-progress version is up at [www.commitwith.com](http://www.commitwith.com). It is intended to be a web app where users can view and list open-source projects.
 
 I got the idea last year learning Ruby On Rails. I was always interested in working on open-source projects but all the ones people recommended were these mammoth projects with 100,000+ lines of code and hundreds of contributors. I wanted to find smaller projects where the owner and contributors were of similar skill to my own. I know they are out there but I couldn’t find them anywhere.
 
