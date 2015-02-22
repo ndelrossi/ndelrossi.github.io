@@ -1,15 +1,21 @@
 ---
 layout: default
 ---
-
-<article role="article" class="full-single-article">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-8 col-md-offset-2">
-        <h1>{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
-        {{ content }}
-      </div>
-    </div>
+<div class="home-page">
+  <div class="hero">
+    {% include custom/hero.html %}
   </div>
-</article>
+
+  <div class="home-field">
+		<article role="article" class="full-single-article">
+  		<div class="container">
+  	  	<div class="row">
+  	    	<div class="col-md-10 col-md-offset-1">
+  	      	{{ content }}
+  	    	</div>
+  	  	</div>
+  		</div>
+		</article>
+  </div>
+</div>
 
