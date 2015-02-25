@@ -6,14 +6,50 @@ comments: true
 sharing: true
 footer: true
 ---
-<h2 class="text-center"><strong>Projects</strong></h2><br>
+<div class="portfolio-section-title">About</div>
+<div class="row project">
+  <div class="col-sm-3">
+    <img class="img-responsive" src="/images/avatar2.jpg" alt="Nick DelRossi">
+  </div>
+  <div class="col-sm-5">
+    <dl>
+      <dt>BIO</dt>
+      <dd><p>I wrote my first line of code in 1996 when I was 15 years old. 
+          The language was QBASIC and I was instantly hooked. 
+          I have programmed many things over the years since then but it was in the last couple years that I developed a true passion for coding.</p> 
+          This obsession combined with a newfound work ethic has me set to take off in this field. 
+      </dd>
+      <dt>LINKS</dt>
+      <dd>
+        <a href="http://www.nickdelrossi.com">Development Blog</a><br>
+        <a href="https://github.com/ndelrossi">GitHub Profile</a><br>
+        <a href="https://www.linkedin.com/pub/nick-delrossi/7a/76/617">LinkedIn Profile</a><br>
+      </dd>
+    </dl>
+  </div>
+  <div class="col-sm-4">
+    <dl>
+      <dt>PRIMARY SKILLS</dt>
+      <dd>
+        Ruby<br>
+        Ruby on Rails<br>
+        RSpec<br>
+        Javascript<br>
+        Backbone.js<br>
+      </dd>
+      <dt>EXPERIENCE WITH</dt>
+      <dd>Java, Android, Linux, OSX</dd>
+    </dl>
+  </div>
+</div>
+<div class="portfolio-section-title">Projects</div>
 <div class="row project">
   <div class="col-sm-5 col-sm-push-7">
     <h4>Commitwith</h4>
     <dl>
       <dd>
         <a href="http://www.commitwith.com">Website</a>,
-        <a href="https://github.com/ndelrossi/commitwith">Github</a>
+        <a href="https://github.com/ndelrossi/commitwith">GitHub</a>
       </dd>
       <dt>DESCRIPTION</dt>
       <dd>A webapp that helps developers find open-source projects.</dd>
@@ -39,7 +75,7 @@ footer: true
     <dl>
       <dd>
         <a href="https://www.veganeatsboston.com">Website</a>,
-        <a href="https://github.com/ndelrossi/vegan_eats_boston">Github</a>
+        <a href="https://github.com/ndelrossi/vegan_eats_boston">GitHub</a>
       </dd>
       <dt>DESCRIPTION</dt>
       <dd>A website for finding vegan restaurants in the Boston area.</dd>
