@@ -9,7 +9,7 @@ footer: true
 <div class="portfolio-section-title">About</div>
 <div class="row project">
   <div class="col-sm-3">
-    <img class="img-responsive" src="/images/avatar2.jpg" alt="Nick DelRossi">
+    <img class="img-responsive img-rounded" src="/images/avatar2.jpg" alt="Nick DelRossi">
   </div>
   <div class="col-sm-5">
     <dl>
