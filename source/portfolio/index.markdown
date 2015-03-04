@@ -41,7 +41,7 @@ footer: true
         RSpec + Capybara<br>
         Javascript<br>
         Backbone.js<br>
-        HTML + CSS
+        HTML + CSS<br>
         Git
       </dd>
       <dt>EXPERIENCE WITH</dt>
