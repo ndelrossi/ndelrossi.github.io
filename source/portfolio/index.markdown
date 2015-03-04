@@ -42,6 +42,7 @@ footer: true
         Javascript<br>
         Backbone.js<br>
         HTML + CSS
+        Git
       </dd>
       <dt>EXPERIENCE WITH</dt>
       <dd>Java, Android, Linux, OSX, Agile methodology, Server administration, Bootstrap</dd>
