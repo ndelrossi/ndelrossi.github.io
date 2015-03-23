@@ -174,7 +174,7 @@ footer: true
       <dd>Ruby model to load and retrieve wedding data:
         <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/models/wedding.rb">wedding.rb</a>
       </dd>
-      <dd>HTML View Partials:
+      <dd>HTML Partials:
         <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/_our_story_photos.html.erb">Photo slider</a>, 
         <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/_gifts.html.erb">Gifts</a><br>, 
         <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/home.html.erb">Home Landing View</a>
