@@ -175,8 +175,8 @@ footer: true
         <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/models/wedding.rb">wedding.rb</a>
       </dd>
       <dd>HTML View Partials:
-        <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/_our_story_photos.html.erb">Photo slider</a><br>
-        <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/_gifts.html.erb">Gifts</a><br>
+        <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/_our_story_photos.html.erb">Photo slider</a>, 
+        <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/_gifts.html.erb">Gifts</a><br>, 
         <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/home.html.erb">Home Landing View</a>
       </dd>
     </dl>
