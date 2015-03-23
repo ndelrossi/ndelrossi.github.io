@@ -176,7 +176,7 @@ footer: true
       </dd>
       <dd>HTML Partials:
         <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/_our_story_photos.html.erb">Photo slider</a>, 
-        <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/_gifts.html.erb">Gifts</a><br>, 
+        <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/_gifts.html.erb">Gifts</a>, 
         <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/home.html.erb">Home Landing View</a>
       </dd>
     </dl>
