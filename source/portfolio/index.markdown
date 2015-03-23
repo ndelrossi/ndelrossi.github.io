@@ -149,3 +149,39 @@ footer: true
     <img class="img-responsive" src="/images/commitwith1.png" alt="Commitwith">
   </div>
 </div>
+<div class="row project">
+  <div class="col-sm-5 col-sm-push-7">
+    <h4>Wedding website</h4>
+    <dl>
+      <dd>
+        <a href="http://www.beckyandnickwedding.com">Website</a>,
+        <a href="https://github.com/ndelrossi/beckyandnickwedding">GitHub</a>
+      </dd>
+      <dt>DESCRIPTION</dt>
+      <dd>I am getting married and I created a website for wedding information.</dd>
+      <dt>STATUS</dt>
+      <dd class="text-danger">Released</dd>
+      <dt>ROLE</dt>
+      <dd>Full Stack</dd>
+      <dt>TECHNOLOGY</dt>
+      <dd>Ruby on Rails, Bootstrap</dd>
+      <dt>NOTES</dt>
+      <dd>A simple long-scroll website I used to work on Design skills. Using a database to store wedding info seemed like overkill to me so instead I decided to load all data from a <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/wedding.yml">yml</a> file. This makes updating text very easy without having to edit html files.</dd>
+      <dt>CODE SAMPLES</dt>
+      <dd>YML file for loading wedding info:
+        <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/wedding.yml">wedding.yml</a>
+      </dd>
+      <dd>Ruby model for load and retrieve wedding data:
+        <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/models/wedding.rb">wedding.rb</a>
+      </dd>
+      <dd>HTML View Partials:
+        <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/_our_story_photos.html.erb">Photo slider</a>
+        <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/_gifts.html.erb">Gifts</a>
+        <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/home.html.erb">Home Landing View</a>
+      </dd>
+    </dl>
+  </div>
+  <div class="col-sm-7 col-sm-pull-5">
+    <img class="img-responsive" src="/images/beckyandnickwedding.png" alt="Becky and Nick Wedding">
+  </div>
+</div>
