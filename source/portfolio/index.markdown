@@ -160,23 +160,23 @@ footer: true
       <dt>DESCRIPTION</dt>
       <dd>I am getting married and I created a website for wedding information.</dd>
       <dt>STATUS</dt>
-      <dd class="text-danger">Released</dd>
+      <dd class="text-success">Released</dd>
       <dt>ROLE</dt>
       <dd>Full Stack</dd>
       <dt>TECHNOLOGY</dt>
       <dd>Ruby on Rails, Bootstrap</dd>
       <dt>NOTES</dt>
-      <dd>A simple long-scroll website I used to work on Design skills. Using a database to store wedding info seemed like overkill to me so instead I decided to load all data from a <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/wedding.yml">yml</a> file. This makes updating text very easy without having to edit html files.</dd>
+      <dd>A simple long-scroll website I used to work on design skills. Using a database to store wedding info seemed like overkill to me so instead I decided to load all data from a <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/wedding.yml">YML</a> file. This makes updating text very easy without having to edit html files.</dd>
       <dt>CODE SAMPLES</dt>
       <dd>YML file for loading wedding info:
         <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/wedding.yml">wedding.yml</a>
       </dd>
-      <dd>Ruby model for load and retrieve wedding data:
+      <dd>Ruby model to load and retrieve wedding data:
         <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/models/wedding.rb">wedding.rb</a>
       </dd>
       <dd>HTML View Partials:
-        <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/_our_story_photos.html.erb">Photo slider</a>
-        <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/_gifts.html.erb">Gifts</a>
+        <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/_our_story_photos.html.erb">Photo slider</a><br>
+        <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/_gifts.html.erb">Gifts</a><br>
         <a href="https://github.com/ndelrossi/beckyandnickwedding/blob/master/app/views/pages/home.html.erb">Home Landing View</a>
       </dd>
     </dl>
