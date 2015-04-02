@@ -7,7 +7,7 @@ title: Nick DelRossi
 subtitle: Boston Web Developer
 author: Nick DelRossi
 simple_search: https://www.google.com/search
-description: I am a web developer living in Somerville, MA. My recent work mostly involves Ruby on Rails and javascript front-end frameworks such as backbone.js. You can reach me at nickwtf@gmail.com.
+description: I am a web developer living in Somerville, MA. My recent work mostly involves Ruby on Rails and javascript front-end frameworks such as backbone.js. You can reach me at nick@nickdelrossi.com.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email: nickwtf@gmail.com
+email: nick@nickdelrossi.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
