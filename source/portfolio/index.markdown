@@ -40,12 +40,11 @@ footer: true
         Ruby on Rails<br>
         RSpec + Capybara<br>
         Javascript<br>
-        Backbone.js<br>
         HTML + CSS<br>
         Git
       </dd>
       <dt>EXPERIENCE WITH</dt>
-      <dd>Java, Android, Linux, OSX, Agile methodology, Server administration, Bootstrap</dd>
+      <dd>Java, Android, Backbone.js, Linux, OSX, Agile methodology, Server administration, Bootstrap</dd>
     </dl>
   </div>
 </div>
