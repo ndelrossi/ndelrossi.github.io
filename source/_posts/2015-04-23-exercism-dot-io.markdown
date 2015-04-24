@@ -5,7 +5,7 @@ date: 2015-03-24 09:56:08 -0400
 comments: true
 categories: 
 ---
-In the past couple of weeks I have been obsessed with a website called
+In the past couple of weeks I have been obsessed with
 [exercism.io](http://exercism.io/). It is a website for working on programming problems in
 different languages. The interesting aspect to it is that once you get
 your code working, you upload it to the website and other people will
