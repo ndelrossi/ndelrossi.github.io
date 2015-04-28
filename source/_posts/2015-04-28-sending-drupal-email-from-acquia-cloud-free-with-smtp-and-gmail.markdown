@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sending Drupal email from Acquia Cloud Free with SMTP and Gmail"
+title: "Sending Drupal 7 email from Acquia Cloud Free with SMTP and Gmail"
 date: 2015-04-28 08:24:23 -0400
 comments: true
 categories: [Drupal, Acquia Cloud]
