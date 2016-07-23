@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               Nick DelRossi
 tagline:             ''
-description:         'Software Engineer localed in Boston'
+description:         "Hi. I'm Nick DelRossi, Software Engineer at Acquia in Boston. My main areas of focus are around software quality, testing and continuous integration"
 url:                 https://www.nickdelrossi.com
 baseurl:
 paginate:            5
@@ -21,3 +21,7 @@ author:
 version:             1.0.0
 
 gems:                [jekyll-paginate]
+
+# Links
+links:
+  github:            https://github.com/ndelrossi
