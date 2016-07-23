@@ -8,7 +8,7 @@ title:               Nick DelRossi
 tagline:             ''
 description:         'Software Engineer localed in Boston'
 url:                 https://www.nickdelrossi.com
-baseurl:             ''
+baseurl:
 paginate:            5
 
 # About/contact
