@@ -5,7 +5,7 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <img class="img-avatar" src="{{ site.baseurl }}/public/avatar2.jpg">
+    <img class="img-avatar" alt="{{ site.author.name }}" title="{{ site.author.name }}" src="{{ site.baseurl }}/public/avatar2.jpg">
     <p>{{ site.description }}</p>
   </div>
 
@@ -28,11 +28,12 @@
     {% endfor %}
 
     <a class="sidebar-nav-item" href="{{ site.links.github }}">GitHub</a>
+    <a class="sidebar-nav-item" href="{{ site.links.linkedin }}">LinkedIn</a>
   </nav>
 
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      {{ site.author.email }}
     </p>
   </div>
 </div>
